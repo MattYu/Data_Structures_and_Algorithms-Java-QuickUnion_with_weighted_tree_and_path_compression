@@ -22,4 +22,5 @@ Creates mathematical sets of N integers with M unions where M is a nonnegative i
 	- When Root(a) is performed, method returns the root of a AND compressed the tree if the height of the tree is greater than 2. This further improves runtime. 
 	- More specialized methods (not included here) could be added to solve specific tailored percolation problems
 	
-	@ MTYU. COEN, Concordia University. 2017
+	@ MTYU. COEN, Concordia University. 2017. 
+	Algorithms inspired by Sedgewick and Al. Princeton University Press.
