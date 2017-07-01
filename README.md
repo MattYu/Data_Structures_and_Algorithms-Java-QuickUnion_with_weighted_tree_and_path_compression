@@ -19,7 +19,7 @@ Creates mathematical sets of N integers with M unions where M is a nonnegative i
 	- size[] keeps track of the number of elements a tree/set contains. 
 	- When an object of class is initialized, all elements are initially unlinked. Thus id[i] is set initially to = i for all i in N. Likewise, size[i] = 1.
 	- When Union is performed, the root of the smallest tree is linked to the root of the largest tree (larger = container more elements)
-	- When Root(a) is perform, method returns the root of a AND compressed the tree if the height of the tree is greater than 2. This further improves runtime. 
+	- When Root(a) is performed, method returns the root of a AND compressed the tree if the height of the tree is greater than 2. This further improves runtime. 
 	- More specialized methods (not included here) could be added to solve specific tailored percolation problems
 	
 	@ MTYU. COEN, Concordia University. 2017
