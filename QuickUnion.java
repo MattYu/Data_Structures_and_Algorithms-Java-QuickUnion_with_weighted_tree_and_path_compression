@@ -50,7 +50,7 @@ public class QuickUnion {
 			}
 		}
 			
-		void union(int p, int q){
+		public void union(int p, int q){
 			int root_p = Root(p);
 			int root_q = Root(q);
 			if (size[root_p] <= size[root_q]){
