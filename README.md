@@ -1,7 +1,6 @@
 # Data_Structures_and_Algorithms-Java-QuickUnion_with_weighted_tree_and_path_compression
 
 Creates mathematical sets of N integers with M unions where M is a nonnegative integer <=N-1
-	Used for modeling and solving scalable Percolation problems (electric conductivity, path flow, social media connections, etc.) in the most efficient mathematically optimized way.
 	
 	Has the following methods  
 	- CreateSets(int N): create a set of N integers that are initially not linked. 
